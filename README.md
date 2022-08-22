@@ -29,3 +29,4 @@ $ npm start / yarn start
 - React-router
 - Material Ui
 - API https://randomuser.me/documentation
+- gh-pages (for deploy in github pages)
