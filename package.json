@@ -1,5 +1,6 @@
 {
   "homepage": "http://hirzanalhakim.github.io/table-filter",
+  "proxy": "https://randomuser.me/api/",
   "name": "magic-test",
   "version": "0.1.0",
   "private": true,
